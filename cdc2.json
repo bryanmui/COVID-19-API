@@ -1,0 +1,36 @@
+{
+ "people_vaccinated": [
+  {
+   "one_dose": "175,867,860",
+   "two_doses": "147,758,585"
+  },
+  {
+   "one_dose": "53%",
+   "two_doses": "44.5%"
+  },
+  {
+   "one_dose": "175,685,847",
+   "two_doses": "147,677,484"
+  },
+  {
+   "one_dose": "62%",
+   "two_doses": "52.1%"
+  },
+  {
+   "one_dose": "167,840,310",
+   "two_doses": "142,531,136"
+  },
+  {
+   "one_dose": "65%",
+   "two_doses": "55.2%"
+  },
+  {
+   "one_dose": "47,631,953",
+   "two_doses": "42,033,140"
+  },
+  {
+   "one_dose": "87.1%",
+   "two_doses": "76.8%"
+  }
+ ]
+}
